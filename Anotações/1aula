@@ -1,0 +1,67 @@
+decomposição
+varivel
+pequeno problema 
+segmentação 
+ não basta só aplicar
+ tem que desenvolver "by yourself"
+como decompor?
+entender o problema
+indentificar os dados 
+agregar os dados 
+funcionalizar
+Decompor 
+ex do coditiano: bike
+#indentificar os componentes 
+#papel de cada componentes 
+#indeedependencias das peças 
+Funcionamento do sistema
+para pedalar eu prtesciso 
+da correia e do pedal 
+#finalidade 
+#interface
+#funcionalidades
+pré-requisitos 
+definição de componentes e etapas
+
+ARTIGO 
+#O que sera abordado ?
+#estrutura 
+#conteudo de cada topico 
+#textos de conexão 
+DEFINIÇÃO DE COMPONENTES E ETAPAS 
+
+
+ REONHECIMENTO DE PADRÕES
+#Modelo base 
+#Estrutura invariante 
+#Repetição 
+Sililaridades e semelhancias
+
+compressão de dados 
+3 blocos laranja, 2 azul, 1 amarelo, 2 pretos, 1 amarelo
+compressão 
+3 laranja 2 azul 1 amarelo 2 preto 1 amarelo 
+
+pq determinar padrões?
+Genelizar, com objetivo de obter resolução para oroblemas diferentes.
+
+Como simular esse comportamento?
+Representantaçao de atributos
+aprendizado-conceito associado ao abjeto
+Armazenar dados 
+regras de deçisão
+
+APLICAÇÕES
+# classificação de dados 
+# reconhecimento de imagem 
+# reconhecimento de fala
+# analise de cenas 
+# classificação de documentos 
+isso é muito utilizado em:
+machine learning
+redes neurais
+inteligencia artificial 
+ciencias de dados 
+
+ABSTRAÇÃO 
+PROCESSO INTELECTUAL DE ISOLAMENTO DE UM OBJETO DE REALIDADE   
