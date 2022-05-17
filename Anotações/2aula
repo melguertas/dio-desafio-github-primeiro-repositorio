@@ -1,0 +1,77 @@
+Representação de dados 
+
+caracteristicas 
+nome 
+mayricula
+endereço 
+campus
+curso 
+telefone...
+
+pontos essenciais 
+outros servisso 
+
+diferços conceitos na computação baseada em abstração 
+
+Algoritimo 
+merge sort
+clusteting
+busca binaria 
+
+arvore
+list
+grafos
+
+maquinas de estado finto 
+
+linguagem de programação 
+ 
+é abstração pura 
+
+comunicação 
+
+ARQUITETURAS 
+clientes e camadas 
+Arquiteturas em camadas 
+arquiteturas em formado de estrelas  
+adoq
+formas diferentes de conseguie conectar 
+os componentes da rede 
+alguns dos exemplos que se coloca abstração dentro 
+
+ALGORITIMO
+
+pensamentos computacional
+
+essas intruções somos nos que programando ele para receber as intruções 
+
+algortimo é passo a passo das intruçoes quew a gente da para o computador fazer 
+e a ordem para ser feita 
+
+dentro tem 3 etapas 
+# analise - Estudo e definição dos dados de entrada e saida 
+# alogoritimo 
+# codificação - programa 
+
+sequencia de passo a passo com objetivo definido 
+execução de tarefas 
+conjunto de operação que resultam 
+pensam de uma maneira diferente 
+a mesma coisa que um peofissional faz 
+
+como construir um algoritimo 
+
+# Compreenção do problema 
+# Definição dados de entrada 
+# Definir processamento
+# Definir dados de saída 
+# Utilizar um metodo de costrução 
+# Teste e diagnóstico
+
+nao é um programa ou seja ele ainda não esta codificado 
+
+Costrução de algoritimos 
+
+Narrativa - LINGUAGEM NATURAL ESCREVER PASSO A PASSO NA MÃO MESMO  
+Fluxograma - UTILIZAÇÃO DE SIMBOLOS PRÉ-DEFINIDOD 
+Pseudocódigo - "portugol" Passo a passo    
